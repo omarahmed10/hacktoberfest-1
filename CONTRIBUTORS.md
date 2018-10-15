@@ -1,3 +1,8 @@
+#### Name: [OMAR QASIM](https://github.com/omarahmed10)
+- Place: Alexandria, Egypt
+- Bio: Software engineer in alexandria university
+- GitHub: [Omar Qasim](https://github.com/omarahmed10)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
